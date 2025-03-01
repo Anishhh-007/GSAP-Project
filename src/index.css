@@ -1,0 +1,6 @@
+@import "tailwindcss";
+body{
+    background-color: black;
+    font-family: gilroy;
+    color:white
+}
